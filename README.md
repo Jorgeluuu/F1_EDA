@@ -6,7 +6,6 @@ Análisis exploratorio de datos de Fórmula 1 para identificar patrones y tenden
 ## Estructura
 - `data/`: Datos de F1
 - `notebooks/`: Análisis en Jupyter
-- `src/`: Código fuente
 - `docs/`: Documentación e informe ejecutivo
 
 ## Uso
